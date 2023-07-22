@@ -1,0 +1,15 @@
+@import "tailwind/base";
+@import "tailwind/components";
+@import "tailwind/utilities";
+
+.font-montserrat {
+  font-family: "Montserrat", sans-serif;
+}
+
+.light-color {
+  color: rgba(164, 188, 70, 1);
+}
+
+.font-roboto {
+  font-family: "Roboto", sans-serif;
+}
